@@ -101,7 +101,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Combined all three classes to keep the amount of redundunt code to a minimum. Kept all three classes incase something had to be changed later.   */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,7 +126,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* Changed the last heading element to follow sequential order */
+.footer h4 {
     font-size: 20px;
-}
+} 
